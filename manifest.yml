@@ -1,0 +1,11 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: internet of things test 123
+  host: internet-of-things-test-123
+  disk_quota: 1024M
+  services:
+  - internet of things test 123-cloudantNoSQLDB
+  - internet of things test 123-iotf-service
