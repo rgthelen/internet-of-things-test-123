@@ -17,13 +17,13 @@
         "node-red-contrib-ibm-wiotp-device-ops":"0.x",
         "node-red-contrib-iot-virtual-device":"0.x",
         "node-red-contrib-ibmpush":"0.x",
-        "node-red-contrib-bluemix-hdfs":"0.x",
-        "node-red-contrib-browser-utils": "0.x",
-        "node-red-contrib-chatbot": "0.x",
-        "node-red-node-email": "0.x",
-        "node-red-contrib-alexa-home-skill": "0.x",
-        "node-red-contrib-googlechart": "0.x",
-        "node-red-dashboard" : "0.x"
+        "node-red-contrib-bluemix-hdfs":"0.x.x",
+        "node-red-contrib-browser-utils": "x.x.x",
+        "node-red-contrib-chatbot": "x.x.x",
+        "node-red-node-email":"x.x.x",
+        "node-red-contrib-alexa-home-skill": "x.x.x",
+        "node-red-contrib-googlechart": "x.x.x",
+        "node-red-dashboard" : "x.x.x"
         
     },
     "scripts": {
