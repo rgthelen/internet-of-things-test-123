@@ -23,8 +23,7 @@
         "node-red-node-email": "0.x",
         "node-red-contrib-alexa-home-skill": "0.x",
         "node-red-contrib-googlechart": "0.x",
-        "node-red-dashboard" : "0.x",
-        "node-red-contrib-gpsd" : "0.x"
+        "node-red-dashboard" : "0.x"
         
     },
     "scripts": {
