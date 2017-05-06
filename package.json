@@ -24,7 +24,8 @@
         "node-red-contrib-alexa-home-skill": "x.x.x",
         "node-red-contrib-googlechart": "x.x.x",
         "node-red-dashboard" : "x.x.x",
-        "node-red-contrib-alexa":"x.x.x"
+        "node-red-contrib-alexa":"x.x.x",
+        "node-red-node-aws": "x.x.x"
         
     },
     "scripts": {
