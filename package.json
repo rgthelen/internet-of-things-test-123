@@ -26,6 +26,7 @@
         "node-red-dashboard" : "x.x.x",
         "node-red-contrib-alexa":"x.x.x",
         "node-red-node-aws": "x.x.x"
+        "node-red-contrib-aws-iot-hub": "x.x.x"
         
     },
     "scripts": {
