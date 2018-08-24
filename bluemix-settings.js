@@ -49,7 +49,7 @@ var settings = module.exports = {
     requireHttps: true,
 
     // Serve up the welcome page
-    httpStatic: path.join(__dirname,"public"),
+   // httpStatic: path.join(__dirname,"public"),
 
     functionGlobalContext: { },
 
